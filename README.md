@@ -4,7 +4,7 @@
 - ⚡ Fun fact: I used my holiday as an excuse to catch Pokémon in Bournemouth. 🙈🤭 
 
 #### My project with School of Code 👩‍💻
-  ##### Click the game title below to view my projects and to play the games.
+  ##### Click the title below to view my projects and to play the games.
 - [Escape room](https://scratch.mit.edu/projects/963291225/) build with scratch sprites.
 - [Rock, Paper, Scissors game](https://supreme-adventure-mzok5jp.pages.github.io/) build with HTML, CSS, and JavaScript.
 
