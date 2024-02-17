@@ -2,7 +2,7 @@
 
 **My School of Code journey** 
 
-- 🌱 I’m currently taking a full-stack web development course in School of Code.
+- 🌱 I’m currently taking a full-stack web development course at School of Code.
 - ⚡ Fun fact: I used my holiday as an excuse to catch Pokémon in Bournemouth. 🙈🤭 
 
 #### My project with School of Code 👩‍💻
