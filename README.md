@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **My School of code journey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🌱 I’m currently taking a full-stack web development course in School of Code.
@@ -11,6 +10,7 @@
 - [Escape room](https://scratch.mit.edu/projects/963291225/) build with scratch sprites.
 - [Rock, Paper, Scissors game](https://supreme-adventure-mzok5jp.pages.github.io/) build with HTML, CSS, and JavaScript.
 
+<!--
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
