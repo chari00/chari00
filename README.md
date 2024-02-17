@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there I'm Chari 👋
 
-**My School of code journey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**My School of Code journey** 
 
 - 🌱 I’m currently taking a full-stack web development course in School of Code.
 - ⚡ Fun fact: I used my holiday as an excuse to catch Pokémon in Bournemouth. 🙈🤭 
