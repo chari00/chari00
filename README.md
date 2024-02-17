@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**chari00/chari00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**My School of code journey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
