@@ -1,7 +1,7 @@
 ### Hi there I'm Chari. Join me on my exciting School of Code journey! 👋
 
 - 🌱 I’m currently taking a full-stack web development course at School of Code.
-- ⚡ Fun fact: I used my holiday as an excuse to catch Pokémon in Bournemouth. 🙈🤭 
+- ⚡ Fun fact: I used my holiday to catch Pokémon in Bournemouth. 🙈🤭 
 
 #### My project with School of Code 👩‍💻
   ##### Click the title below to view my projects and to play the games.
