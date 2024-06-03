@@ -1,4 +1,4 @@
-### Hi there I'm Chari. Join me on my exciting School of Code journey! 👋
+### Hi there I'm Chari. Join me on my exciting journey at School of Code! 👋
 
 - 🌱 I’m currently taking a full-stack web development course at School of Code.
 
