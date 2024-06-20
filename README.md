@@ -1,6 +1,6 @@
-<!--
-### Hi there I'm Chari. Join me on my exciting journey at School of Code! 👋
 
+### Hi, I’m Chari, transitioning from customer service to the tech industry. I love playing computer games, RPGs, and coding challenges. Inspired by my brothers, my first teammates, I’m now navigating the exciting world of software engineering, ready to innovate and solve real world problems.👋
+<!--
 - 🌱 I’m currently taking a full-stack web development course at School of Code.
 
 #### My project with School of Code 👩‍💻
