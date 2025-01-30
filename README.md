@@ -2,7 +2,7 @@
 
 Hi, I’m Chari. A junior web developer specializing in creating responsive and user-friendly websites.
 
-#### My projects 👩‍💻
+## My projects 👩‍💻
 
 **Personal & Private projects**
 
