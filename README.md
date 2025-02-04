@@ -4,18 +4,13 @@ Hi, I’m Chari. A junior web developer specializing in creating responsive and 
 
 ## My projects 👩‍💻
 
-**Personal & Private projects**
-
 - [Northeast IT Solutions](https://northeast-it-solutions.vercel.app/)
 - [Amy's Personalized Gowns & Dresses](https://amys-personalized-gowns-and-dresses.netlify.app/)
 - [TypeScript tutorial](https://typescript-tutorial.netlify.app/)
-
-**Collaborative Projects**
-
 - [Birmingham Business Magazine](https://birmingham-biz-kappa.vercel.app/)
 - [Movie & Cinema Finder](https://movie-cinema-finder.netlify.app/)
 
-## Tech skills <a href="#top">[🔝](top)</a>
+## My Tech skills <a href="#top">[🔝](top)</a>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
