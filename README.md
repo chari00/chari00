@@ -4,6 +4,8 @@ Hi, I’m Chari. A junior web developer specializing in creating responsive and 
 
 ## My projects 👩‍💻
 
+- [My Portfolio](https://chari-cruz-portfolio-77qh.vercel.app/)
+- [E-commerce website](https://e-commerce-website-seven-omega.vercel.app/)
 - [Northeast IT Solutions](https://northeast-it-solutions.vercel.app/)
 - [SBC Bootcamp Portfolio](https://chari-cruz-portfolio-brown.vercel.app/)
 - [Amy's Personalized Gowns & Dresses](https://amys-personalized-gowns-and-dresses.netlify.app/)
