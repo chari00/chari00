@@ -1,6 +1,6 @@
 <a name="top"></a>
 
-Hi, I’m Chari. A junior web developer specializing in creating responsive and user-friendly websites.
+Hi, I’m Chari. A junior full stack web developer specializing in creating responsive and user-friendly websites.
 
 ## My projects 👩‍💻
 
