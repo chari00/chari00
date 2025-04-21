@@ -32,7 +32,6 @@ Hi, I’m Chari. A junior full stack web developer specializing in creating resp
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="150"></td>
-    <td><img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="150"></td>
     <td><img src="https://github.com/user-attachments/assets/949994e1-5058-4f7c-9276-09cec8fc8699" width="150"></td>
     <td><img src="https://github.com/user-attachments/assets/fde6e29e-efa6-4d5e-b3b7-1b76401862d3" width="150"></td>
     <td><img src="https://github.com/user-attachments/assets/70496ea9-8530-4212-9ab3-d143e1910483" width="150"></td>
