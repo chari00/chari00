@@ -13,7 +13,7 @@ Hi, I’m Chari. A junior full stack web developer specializing in creating resp
 - [Birmingham Business Magazine](https://birmingham-biz-kappa.vercel.app/)
 - [Movie & Cinema Finder](https://movie-cinema-finder.netlify.app/)
 
-## My Tech skills <a href="#top">[🔝](top)</a>
+## My Tech skills
 
 <table align="center">
   <tr>
@@ -39,4 +39,4 @@ Hi, I’m Chari. A junior full stack web developer specializing in creating resp
 </table>
 <br><br>
 
-
+<p align="right"> <a  href="#top">Back to 🔝</a> </p>
