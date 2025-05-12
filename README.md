@@ -12,7 +12,7 @@ Hi, I’m Chari. A junior full stack web developer specializing in creating resp
    >>
     >> parent-email: aitutorv2.parent.test@gmail.com, pw: aaaa1111
    
-- [E-commerce website](https://e-commerce-website-seven-omega.vercel.app/)
+- [E-commerce website - Mobilenomics](https://e-commerce-website-seven-omega.vercel.app/)
   >Test email account: mobilenomics.test@gmail.com, pw: aaaa1111
   >
   >Payment Stripe test card number: `4242 4242 4242 4242`
