@@ -1,6 +1,18 @@
 <a name="top"></a>
 
-Hi, I’m Chari. A junior full stack web developer specializing in creating responsive and user-friendly websites.
+A junior full stack web developer specializing in creating responsive
+        and user-friendly websites. <br />
+        <br /> My expertise lies in front-end development, with a strong
+        foundation in HTML, CSS, and JavaScript. I'm also proficient in popular
+        libraries and frameworks like React and Next.js. Additionally, I have
+        experience with back-end technologies such as Node.js, Express.js,
+        Python, Django, and SQL databases like MySQL and PostgreSQL.
+        <br />
+        <br /> Furthermore, I am adept at leveraging a variety of AI tools to optimize
+        development workflows, automate tasks, and improve user experience. I
+        prioritize security best practices, ensuring accessibility for all users
+        and implementing SEO strategies to enhance visibility and performance.
+  
 
 ## My projects 👩‍💻
 
