@@ -3,13 +3,13 @@
 A junior full stack web developer specializing in creating responsive
         and user-friendly websites. <br />
         <br /> My expertise lies in front-end development, with a strong
-        foundation in HTML, CSS, and JavaScript. I'm also proficient in popular
-        libraries and frameworks like React and Next.js. Additionally, I have
-        experience with back-end technologies such as Node.js, Express.js,
-        Python, Django, and SQL databases like MySQL and PostgreSQL.
-        <br />
-        <br /> Furthermore, I consider security best practices, ensuring accessibility for all users
-        and implementing SEO strategies to enhance visibility and performance.
+        foundation in HTML, CSS, and JavaScript. I am proficient in popular
+        libraries and frameworks like React and Next.js, focusing on building
+        performant and SEO-friendly applications. I also have experience with
+        back-end technologies, including Node.js, Express.js, Python, Django,
+        and SQL databases like MySQL and PostgreSQL. I always consider security
+        best practices, ensure accessibility for all users, and implement SEO
+        strategies to enhance visibility and performance.
   
 
 ## My projects 👩‍💻
