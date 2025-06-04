@@ -8,9 +8,7 @@ A junior full stack web developer specializing in creating responsive
         experience with back-end technologies such as Node.js, Express.js,
         Python, Django, and SQL databases like MySQL and PostgreSQL.
         <br />
-        <br /> Furthermore, I am adept at leveraging a variety of AI tools to optimize
-        development workflows, automate tasks, and improve user experience. I
-        prioritize security best practices, ensuring accessibility for all users
+        <br /> Furthermore, I consider security best practices, ensuring accessibility for all users
         and implementing SEO strategies to enhance visibility and performance.
   
 
