@@ -14,7 +14,7 @@ A junior full stack web developer specializing in creating responsive
 
 ## My projects 👩‍💻
 
-- [My Portfolio](https://chari-cruz-portfolio-77qh.vercel.app/)
+- [My Portfolio](https://chari-ai-portfolio.vercel.app/)
 - [AI Tutor V2](https://ai-tutor-v2.vercel.app/)
 - [E-commerce website - Mobilenomics](https://e-commerce-website-seven-omega.vercel.app/)
 - [Northeast IT Solutions](https://northeast-it-solutions.vercel.app/)
